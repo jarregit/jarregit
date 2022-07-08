@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I work for the University of Oslo (non-public enterprise repo) and have done since 2018
+Mostly with Windows applications, mostly for the Estate Department, but sort of do what needs doing 
+
+Have coded for several years (Perl, then Python, now trying to learn PowerShell), but new to Git :)
+- 🌱 I’m currently learning Git and Powershell
